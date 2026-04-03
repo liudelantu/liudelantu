@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**liudelantu/liudelantu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- Data Engineer (3+ years)
+- Interested in AI & Data Architecture
+- Building real-world projects
 
-Here are some ideas to get you started:
+## 🧠 Skills
+- Python / SQL / Flask
+- Data Pipeline / ETL
+- Basic Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- 🔹 xxx项目（数据分析）
+- 🔹 xxx项目（AI应用）
+- 🔹 刷题系统（你正在做的）
+
+## 📈 Goals (2026)
+- Build 5 real projects
+- Write weekly blog
+- Become Data Architect
+
+## 📫 Contact
+- Email: your gmail
